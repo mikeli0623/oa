@@ -6,5 +6,6 @@ This is my OA submission. Here is the link to the repo [https://github.com/mikel
 
 In client directory:
 `yarn dev`
+
 In api directory:
 `python manage.py runserver`
